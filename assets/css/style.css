@@ -1,0 +1,24 @@
+.background{
+    background-color: royalblue;
+}
+.titlebold{
+    font-style: bold;
+}
+.arial{
+    font-family: arial;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.italic{
+    font-style: italic;
+}
+body{
+    background-image: url("../image/skyrim.jpg");
+}
+body{
+    background-repeat: no-repeat;
+}
